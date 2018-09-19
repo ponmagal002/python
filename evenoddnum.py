@@ -1,4 +1,4 @@
-#even or odd number
+#even or odd numbere
 valu=int(input())
 if(valu<0):
 	print("Negative")
